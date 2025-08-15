@@ -8,7 +8,7 @@
 ##
 
 <a href="https://github.com/portelavf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelafantinato&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=dark"/>
 </a>
 <div style="display: inline_block;"><br>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
