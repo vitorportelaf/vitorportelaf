@@ -2,7 +2,7 @@
 
 - 📚 Cursando Sistemas da Informação - FIAP
 - 🤝 Facilidade em trabalhar em equipe
-- 🤖 Admirador da Tecnologia e da Inovação
+- 💻 Admirador da Tecnologia e da Inovação
 - 🚗 Entusiasta de carros e automobilismo
 
 ### 🤖 Linguagens Utilizadas
@@ -87,6 +87,4 @@
     * Lógica de programação: explore funções e listas;
     * Git e GitHub: compartilhando e colaborando em projetos;
     * Lógica de programação: praticando com desafios;
-
-
 
