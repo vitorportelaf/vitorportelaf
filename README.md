@@ -1,8 +1,8 @@
 # Bem vindo(a), chegou de paraquedas? Aceite um café! ☕
 
 - 📚 Cursando Sistemas da Informação - FIAP
-- 🤝 Facilidade em trabalhar em equipe
 - 💻 Admirador da Tecnologia e da Inovação
+- 🤝 Facilidade em trabalhar em equipe
 - 🚗 Entusiasta de carros e automobilismo
 
 ### 🤖 Linguagens Utilizadas
