@@ -7,6 +7,7 @@
 
 ##
 
+<h2> 📊 Linguagens Utilizadas </h2>
 <a href="https://github.com/vitorportelaf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=github_dark"/>
 </a>
