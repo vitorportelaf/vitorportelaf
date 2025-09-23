@@ -5,23 +5,21 @@
 - 🤖 Admirador da Tecnologia e da Inovação
 - 🚗 Entusiasta de carros e automobilismo
 
-##
+<div>
+  <h2> 📊 Linguagens Utilizadas </h2>
+  <a href="https://github.com/vitorportelaf">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=github_dark"/>
+  </a>
 
-<h2> 📊 Linguagens Utilizadas </h2>
-<a href="https://github.com/vitorportelaf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=github_dark"/>
-</a>
-
-<div style="display: inline_block;"><br>
-  <img align="center" alt="Vitor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Vitor-SQLDeveloper" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vitor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <div style="display: inline_block;"><br>
+    <img align="center" alt="Vitor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Vitor-SQLDeveloper" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
+    <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Vitor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
 </div>
-
-##
 
 <div>
   <a href="https://www.linkedin.com/in/vitorportelafantinato/" target="_blank">
