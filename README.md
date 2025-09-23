@@ -5,7 +5,11 @@
 - 🤖 Admirador da Tecnologia e da Inovação
 - 🚗 Entusiasta de carros e automobilismo
 
-### 📊 Linguagens Utilizadas
+### 🤖 Linguagens Utilizadas
+
+<a href="https://github.com/vitorportelaf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=github_dark"/>
+</a>
 <div style="display: inline_block;"><br>
   <img align="center" alt="Vitor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Vitor-SQLDeveloper" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
@@ -14,13 +18,10 @@
   <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vitor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-<a href="https://github.com/vitorportelaf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=github_dark"/>
-</a>
 
 ---
 
-### Entre em contato
+### 📞 Entre em contato
 <div>
   <a href="https://www.linkedin.com/in/vitorportelafantinato/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -35,7 +36,7 @@
 
 ---
 
-### 💻 Habilidades
+### 🧩 Habilidades
 
 * **Linguagens de Programação:**
     * Java
@@ -58,7 +59,7 @@
     * Espanhol: Básico (A2)
 
 
-### 📚 Cursos e Certificados
+### 📖 Cursos e Certificados
 
 * **Java Fundamentos - NanoCourses - 2025**
 * **Imersão Front-End - Alura - 2025**
