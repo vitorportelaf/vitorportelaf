@@ -1,10 +1,8 @@
-# Bem vindo(a), chegou de paraquedas? Aceite um café! ☕ + <img src="https://visitor-badge.laobi.icu/badge?page_id=vitorportelaf&left_color=#333333&right_color=#58a6ff"/>
+# Bem vindo(a), chegou de paraquedas? Aceite um café! ☕ <img src="https://visitor-badge.laobi.icu/badge?page_id=vitorportelaf&left_color=#333333&right_color=#58a6ff"/>
 - 📚 Cursando Sistemas da Informação - FIAP
 - 💻 Admirador da Tecnologia e da Inovação
 - 🤝 Facilidade em trabalhar em equipe
 - 🚗 Entusiasta de carros e automobilismo
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=vitorportelaf&left_color=#333333&right_color=#58a6ff"/>
 
 ### 🤖 Linguagens Utilizadas
   <a href="https://github.com/vitorportelaf">
