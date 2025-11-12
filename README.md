@@ -5,8 +5,8 @@
 - 🚗 Entusiasta de carros e automobilismo
 
 
-### 🤖 Linguagens Utilizadas
 <div align="center">
+### 🤖 Linguagens Utilizadas
   <a href="https://github.com/vitorportelaf">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=github_dark"/>
   </a>
