@@ -5,6 +5,10 @@
 - 🤝 Facilidade em trabalhar em equipe
 - 🚗 Entusiasta de carros e automobilismo
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vitorportelaf&left_color=#333333&right_color=#58a6ff"/>
+</div>
+
 ### 🤖 Linguagens Utilizadas
 
 <a href="https://github.com/vitorportelaf">
