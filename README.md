@@ -1,6 +1,4 @@
-
 # Bem vindo(a), chegou de paraquedas? Aceite um café! ☕
-<img src="https://visitor-badge.laobi.icu/badge?page_id=vitorportelaf&left_color=#333333&right_color=#58a6ff"/>
 - 📚 Cursando Sistemas da Informação - FIAP
 - 💻 Admirador da Tecnologia e da Inovação
 - 🤝 Facilidade em trabalhar em equipe
@@ -8,7 +6,7 @@
 
 
 ### 🤖 Linguagens Utilizadas
- 
+
   <a href="https://github.com/vitorportelaf">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=github_dark"/>
   </a>
@@ -20,9 +18,11 @@
     <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Vitor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
-
+  
 ---
+
 ### 📞 Entre em contato
+
 <div align="center">
   <div>
     <a href="https://www.linkedin.com/in/vitorportelafantinato/" target="_blank">
@@ -39,8 +39,8 @@
 
 ---
 
-### 🧩 Habilidades
-  
+### 🧩 Habilidades 
+
 * **Linguagens de Programação:**
   * Java
     * HTML
