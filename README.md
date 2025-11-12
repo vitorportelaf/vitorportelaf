@@ -8,7 +8,7 @@
 
 
 ### 🤖 Linguagens Utilizadas
-<div align="center">  
+ 
   <a href="https://github.com/vitorportelaf">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=github_dark"/>
   </a>
@@ -20,7 +20,7 @@
     <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Vitor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
-</div>
+
 ---
 ### 📞 Entre em contato
 <div align="center">
