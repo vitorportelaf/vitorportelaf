@@ -1,27 +1,26 @@
-<div align="center">
-  # Bem vindo(a), chegou de paraquedas? Aceite um café! ☕
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vitorportelaf&left_color=#333333&right_color=#58a6ff"/>
-  - 📚 Cursando Sistemas da Informação - FIAP
-  - 💻 Admirador da Tecnologia e da Inovação
-  - 🤝 Facilidade em trabalhar em equipe
-  - 🚗 Entusiasta de carros e automobilismo
+
+# Bem vindo(a), chegou de paraquedas? Aceite um café! ☕
+<img src="https://visitor-badge.laobi.icu/badge?page_id=vitorportelaf&left_color=#333333&right_color=#58a6ff"/>
+- 📚 Cursando Sistemas da Informação - FIAP
+- 💻 Admirador da Tecnologia e da Inovação
+- 🤝 Facilidade em trabalhar em equipe
+- 🚗 Entusiasta de carros e automobilismo
+
+
+### 🤖 Linguagens Utilizadas
+  
+<a href="https://github.com/vitorportelaf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=github_dark"/>
+</a>
+<div style="display: inline_block;"><br>
+  <img align="center" alt="Vitor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Vitor-SQLDeveloper" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vitor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<div align="center">
-  ### 🤖 Linguagens Utilizadas
-  
-  <a href="https://github.com/vitorportelaf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=github_dark"/>
-  </a>
-  <div style="display: inline_block;"><br>
-    <img align="center" alt="Vitor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Vitor-SQLDeveloper" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
-    <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Vitor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
-</div>
 ---
 <div align="center">
   ### 📞 Entre em contato
@@ -37,58 +36,56 @@
     </a>
   </div>
 </div>
----
-<div align="center" text-align="center">
-  ### 🧩 Habilidades
-  
-  * **Linguagens de Programação:**
-      * Java
-      * HTML
-      * CSS
-      * JavaScript
-  * **Frameworks e Ferramentas:**
-      * React
-      * Node.js
-      * Bootstrap
-      * Git
-      * GitHub
-      * Excel
-      * Cisco Packet Tracer
-  * **Bancos de Dados:**
-      * SQL
-  * **Idiomas:**
-      * Portugues: Nativo
-      * Inglês: Intermediário (B2)
-      * Espanhol: Básico (A2)
-</div>
 
-<div align="center">
-  ### 📖 Cursos e Certificados
+---
+
+### 🧩 Habilidades
   
-  * **Java Fundamentos - NanoCourses - 2025**
-  * **Imersão Front-End - Alura - 2025**
-  * **Formação Aprenda a programar em Java com Orientação a Objetos - Alura - 2025:**
-      * Java: criando a sua primeira aplicação;
-      * Java: aplicando a Orientação a Objetos;
-      * Java: trabalhando com listas e coleções de dados;
-      * Java: consumindo API, gravando arquivos e lidando com erros;
-  * **Formação Conhecendo SQL - Alura - 2025:**
-      * SQLite online: conhecendo instruções SQL;
-      * SQLite Online: executando consultas SQL;
-      * Realizando consultas com SQL: Joins, Views e transações;
-      * SQLite online: análise de dados com SQL;
-  * **Front End - NanoCourses - 2024**
-  * **Formação A partir do zero: HTML e CSS para projetos web - Alura - 2024:**
-      * HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags;
-      * HTML e CSS: Classes, posicionamento e Flexbox;
-      * HTML e CSS: cabeçalho, footer e variáveis CSS;
-      * HTML e CSS: trabalhando com responsividade e publicação de projetos;
-      * HTML e CSS: praticando HTML/CSS;
-      * HTML e CSS: responsividade com mobile-first;
-  * **A partir do zero: iniciante em programação - Alura - 2024:**
-      * Começando em Programação: carreira e primeiros passos;
-      * Lógica de programação: mergulhe em programação com JavaScript;
-      * Lógica de programação: explore funções e listas;
-      * Git e GitHub: compartilhando e colaborando em projetos;
-      * Lógica de programação: praticando com desafios;
-</div>
+* **Linguagens de Programação:**
+  * Java
+    * HTML
+    * CSS
+    * JavaScript
+* **Frameworks e Ferramentas:**
+  * React
+    * Node.js
+    * Bootstrap
+    * Git
+    * GitHub
+    * Excel
+    * Cisco Packet Tracer
+* **Bancos de Dados:**
+  * SQL
+* **Idiomas:**
+  * Portugues: Nativo
+    * Inglês: Intermediário (B2)
+    * Espanhol: Básico (A2)
+
+### 📖 Cursos e Certificados
+  
+* **Java Fundamentos - NanoCourses - 2025**
+* **Imersão Front-End - Alura - 2025**
+* **Formação Aprenda a programar em Java com Orientação a Objetos - Alura - 2025:**
+  * Java: criando a sua primeira aplicação;
+    * Java: aplicando a Orientação a Objetos;
+    * Java: trabalhando com listas e coleções de dados;
+    * Java: consumindo API, gravando arquivos e lidando com erros;
+* **Formação Conhecendo SQL - Alura - 2025:**
+  * SQLite online: conhecendo instruções SQL;
+    * SQLite Online: executando consultas SQL;
+    * Realizando consultas com SQL: Joins, Views e transações;
+    * SQLite online: análise de dados com SQL;
+* **Front End - NanoCourses - 2024**
+* **Formação A partir do zero: HTML e CSS para projetos web - Alura - 2024:**
+  * HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags;
+    * HTML e CSS: Classes, posicionamento e Flexbox;
+    * HTML e CSS: cabeçalho, footer e variáveis CSS;
+    * HTML e CSS: trabalhando com responsividade e publicação de projetos;
+    * HTML e CSS: praticando HTML/CSS;
+    * HTML e CSS: responsividade com mobile-first;
+* **A partir do zero: iniciante em programação - Alura - 2024:**
+  * Começando em Programação: carreira e primeiros passos;
+    * Lógica de programação: mergulhe em programação com JavaScript;
+    * Lógica de programação: explore funções e listas;
+    * Git e GitHub: compartilhando e colaborando em projetos;
+    * Lógica de programação: praticando com desafios;
