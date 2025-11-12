@@ -5,7 +5,7 @@
   - 💻 Admirador da Tecnologia e da Inovação
   - 🤝 Facilidade em trabalhar em equipe
   - 🚗 Entusiasta de carros e automobilismo
-</div>div>
+</div>
 
 <div align="center">
   ### 🤖 Linguagens Utilizadas
@@ -38,7 +38,7 @@
   </div>
 </div>
 ---
-<div align="center">
+<div align="center" text-align="center">
   ### 🧩 Habilidades
   
   * **Linguagens de Programação:**
