@@ -4,8 +4,8 @@
 - 🤝 Facilidade em trabalhar em equipe
 - 🚗 Entusiasta de carros e automobilismo
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=vitorportelaf&left_color=#333333&right_color=#58a6ff"/>
 
-<div align="center">
 ### 🤖 Linguagens Utilizadas
   <a href="https://github.com/vitorportelaf">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=github_dark"/>
@@ -18,24 +18,21 @@
     <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Vitor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
-</div>
 
 ---
 
 ### 📞 Entre em contato
 
-<div align="center">
-  <div>
-    <a href="https://www.linkedin.com/in/vitorportelafantinato/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:vitor.portelafantinato@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://instagram.com/_portelavf" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
-  </div>
+<div>
+  <a href="https://www.linkedin.com/in/vitorportelafantinato/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:vitor.portelafantinato@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/_portelavf" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ---
