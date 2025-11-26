@@ -6,8 +6,6 @@
 
 ### 🤖 Linguagens Utilizadas
   <a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&langs_count=16&theme=github_dark"/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&theme=github_dark&hide=swift,csharp'/>
   </a>
   <div style="display: inline_block;"><br>
     <img align="center" alt="Vitor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
