@@ -5,7 +5,7 @@
 - 🚗 Entusiasta de carros e automobilismo
 
 ### 🤖 Linguagens Utilizadas
-  <div style="display: inline_block;"><br>
+  <div style="display: inline_block;">
     <img align="center" alt="Vitor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Vitor-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     <img align="center" alt="Vitor-SQLDeveloper" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
