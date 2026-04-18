@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 💼 Atualmente atuo como Estagiário em Analista de Desenvolvimento  
+### 💼 Atualmente atuo como Estagiário em Analista de Desenvolvimento - Surf
 ### 📚 Cursando Sistemas da Informação - FIAP  
 
 </div>
