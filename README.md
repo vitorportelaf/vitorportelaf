@@ -17,23 +17,35 @@
 ---
 
 <div align="center">
-
-  
-  <a href="#">[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,java,spring,ts,mysql,postgres,docker,git,postman,vscode&perline=6)](https://skillicons.dev)</a>
-</div>
-
-<div align="center">
-<details>
-  <summary>Github Status 📊</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=vitorportelaf&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
-</details>
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,java,spring,ts,mysql,postgres,docker,git,postman,vscode&perline=6" 
+    />
+  </a>
 </div>
 
 ---
+
 <div align="center">
-  
+  <details>
+    <summary>📊 GitHub Status</summary>
+    <br>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vitorportelaf&theme=github_dark_dimmed&count_private=true&hide_border=true&line_height=20"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&theme=github_dark_dimmed&count_private=true&hide_border=true"
+  />
+
+  </details>
+</div>
+
+---
+
+<div align="center">
+
 ### 📞 Entre em contato
 
 </div>
