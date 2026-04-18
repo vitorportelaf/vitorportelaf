@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=600&height=40&lines=Bem+vindo(a),+eu+sou+o+Vitor+Portela!+%E2%98%95" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=600&height=40&lines=Bem+vindo(a),+eu+sou+o+Vitor+Portela!+%F0%9F%A4%A0" 
       alt="Typing SVG"
     >
   </a>
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 💼 Atualmente atuo como Estagiário em Desenvolvimento  
+### 💼 Atualmente atuo como Estagiário em Analista de Desenvolvimento  
 ### 📚 Cursando Sistemas da Informação - FIAP  
 
 </div>
