@@ -9,8 +9,8 @@
 
 <div align="center">
 
-#### 💼 Atualmente atuo como Estagiário em Desenvolvimento  
-#### 📚 Cursando Sistemas da Informação - FIAP  
+### 💼 Atualmente atuo como Estagiário em Desenvolvimento  
+### 📚 Cursando Sistemas da Informação - FIAP  
 
 </div>
 
