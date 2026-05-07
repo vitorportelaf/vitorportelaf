@@ -19,7 +19,7 @@
 <div align="center">
 
   
-  <a href="#">[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,java,spring,ts,mysql,postgres,docker,git,postman,vscode&perline=6)](https://skillicons.dev)</a>
+  <a href="#">[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,java,spring,ts,react,mysql,postgres,docker,git,postman&perline=6)](https://skillicons.dev)</a>
 </div>
 
 <div align="center">
