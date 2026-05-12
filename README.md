@@ -19,7 +19,7 @@
 <div align="center">
 
   
-  <a href="#">[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,java,spring,ts,react,mysql,postgres,docker,git,postman&perline=6)](https://skillicons.dev)</a>
+  <a href="#">[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,java,spring,ts,react,mysql,postgres,prisma,docker,git&perline=6)](https://skillicons.dev)</a>
 </div>
 
 <div align="center">
@@ -28,6 +28,7 @@
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=vitorportelaf&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorportelaf&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
+  
 </details>
 </div>
 
