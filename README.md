@@ -61,3 +61,8 @@
     >
   </a>
 </div>
+
+<div align="right">
+  
+  ![](https://komarev.com/ghpvc/?username=vitorportelaf&color=lightgrey&abbreviated=true)
+</div>
